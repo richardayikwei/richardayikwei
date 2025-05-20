@@ -2,7 +2,7 @@
 # 💫 About Me:
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) --> 👋 Hi, I’m Richard Ayikwei
 - 👀 I’m interested in creating websites and apps that are beautiful to look at and have easy to navigate UI's
-- 🌱 I’m currently learning React Native , Python and UI/UX basics
+- 🌱 I’m currently learning Next.jx, React Native , Python and UI/UX basics
 - 📫 How to reach me : richardayikweibee@gmail.com
 - ⚡ Fun fact: Change is constant
 
