@@ -1,7 +1,7 @@
 [![](https://visitcount.itsvg.in/api?id=richardayikwei&icon=0&color=0)](https://visitcount.itsvg.in)
 # 💫 About Me:
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) --> 👋 Hi, I’m Richard Ayikwei
-- 👀 I’m interested in creating websites and apps that are beautiful to look at and have easy to navigate UI's
+- 👀 I’m interested in automating everyday and repetitive tasks to improve efficiency.
 - 🌱 I’m currently using python to create packages , do data science and data analysis 
 - 📫 How to reach me : richardayikweibee@gmail.com
 - ⚡ Fun fact: Change is constant
